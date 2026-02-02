@@ -3,7 +3,7 @@
  * Plugin Name: Featured Cases
  * Description: Featured Cases plugin with CPT, admin management page, shortcode and Gutenberg block.
  * Version: 1.0
- * Author: Your Name
+ * Author: Gabriely Muniz
  */
 
 if (!defined('ABSPATH')) {
@@ -253,3 +253,4 @@ class Featured_Cases_Plugin {
 }
 
 new Featured_Cases_Plugin();
+
